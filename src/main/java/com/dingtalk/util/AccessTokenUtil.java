@@ -3,7 +3,7 @@ package com.dingtalk.util;
 import com.dingtalk.api.DefaultDingTalkClient;
 import com.dingtalk.api.request.OapiGettokenRequest;
 import com.dingtalk.api.response.OapiGettokenResponse;
-import com.dingtalk.constant.CommonConstant;
+import com.dingtalk.constant.AppConstant;
 import com.dingtalk.constant.UrlConstant;
 import com.taobao.api.ApiException;
 
@@ -16,8 +16,8 @@ public class AccessTokenUtil {
         DefaultDingTalkClient client = new DefaultDingTalkClient(UrlConstant.GET_ACCESS_TOKEN_URL);
         OapiGettokenRequest request = new OapiGettokenRequest();
 
-        request.setAppkey(CommonConstant.APP_KEY);
-        request.setAppsecret(CommonConstant.APP_SECRET);
+        request.setAppkey(AppConstant.APP_KEY);
+        request.setAppsecret(AppConstant.APP_SECRET);
         request.setHttpMethod("GET");
         OapiGettokenResponse response = client.execute(request);
 

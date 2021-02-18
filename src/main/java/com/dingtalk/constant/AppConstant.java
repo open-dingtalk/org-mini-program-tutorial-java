@@ -1,9 +1,9 @@
 package com.dingtalk.constant;
 
 /**
- * 通用常量
+ * 应用凭证常量
  */
-public class CommonConstant {
+public class AppConstant {
 
     /**
      * 开发者后台->应用开发-企业内部应用->选择您的小程序->凭证与基础信息->AppKey
