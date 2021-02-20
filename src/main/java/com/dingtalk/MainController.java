@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 钉钉企业内部小程序Demo, 实现了身份验证（免登）功能
+ * 钉钉企业内部小程序DEMO, 实现了身份验证（免登）功能
  */
 @RestController
 public class MainController {

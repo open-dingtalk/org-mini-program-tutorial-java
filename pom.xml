@@ -12,7 +12,7 @@
     <artifactId>org-mini-program-tutorial-java</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>org-mini-program-tutorial-java</name>
-    <description>钉钉企业内部小程序Demo</description>
+    <description>钉钉企业内部小程序DEMO</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
