@@ -87,7 +87,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.7.0" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.6" level="project" />
     <orderEntry type="module-library">
-      <library name="Maven: com.dingtalk:dingtalk:1.0.0-SNAPSHOT">
+      <library name="Maven: com.dingtalk:dingtalk-api-sdk:1.0.0-SNAPSHOT">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/taobao-sdk-java-auto_1479188381469-20210207.jar!/" />
         </CLASSES>

@@ -34,7 +34,7 @@
 
         <dependency>
             <groupId>com.dingtalk</groupId>
-            <artifactId>dingtalk</artifactId>
+            <artifactId>dingtalk-api-sdk</artifactId>
             <version>1.0.0-SNAPSHOT</version>
             <scope>system</scope>
             <systemPath>${pom.basedir}/lib/taobao-sdk-java-auto_1479188381469-20210207.jar</systemPath>
