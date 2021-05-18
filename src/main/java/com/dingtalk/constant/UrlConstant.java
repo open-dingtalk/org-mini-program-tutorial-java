@@ -17,5 +17,8 @@ public class UrlConstant {
      * 根据用户id获取用户详情 url
      */
     public static final String USER_GET_URL = "https://oapi.dingtalk.com/topapi/v2/user/get";
-
+    /**
+     * 发送群助手消息 url
+     */
+    public static final String SCENCEGROUP_MESSAGE_SEND_V2 = "https://oapi.dingtalk.com/topapi/im/chat/scencegroup/message/send_v2";
 }
